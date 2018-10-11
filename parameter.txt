@@ -1,6 +1,6 @@
-Benchmark netcard
-LB 1
-UB 5
+Benchmark des
+LB 3
+UB 7
 Lp_Shift 0
-Rp_Shift -0.58
-Vth_pv 15
+Rp_Shift 0.2
+Vth_pv 20

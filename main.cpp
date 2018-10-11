@@ -87,7 +87,8 @@ int main(int argc, const char * argv[])
 {
     if( argc < 2 )
     {
-        printf("Ex:./dist bench_A_BmV_inst.txt \n") ;
+		printf("After setting \'parameter.txt\', type following command in the terminal.\n") ;
+        printf("Ex:./shift bench_A_BmV_inst.txt \n") ;
         return -1 ;
     }
     //----- Read parameter.txt ------------------------------------
